@@ -1,5 +1,5 @@
 # mte-435-website
 
-A website with useful functions I used to learn in MTE-435-website course.
+A super basic task manager for TNI scholarship students. Vanilla PHP, HTML, and JavaScript.
 
 [[https://drive.google.com/drive/folders/1xhPpRtX1_ZrEIU9RrQH5yq2ga4CoqM-X][Google Drive]]
